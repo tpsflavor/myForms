@@ -1,9 +1,9 @@
 {
-  "forms": [
+  "questionaires": [
     {
       "id": 1,
       "name": "This 1 form",
-      "questions": [
+      "value": [
         {
           "id": 1,
           "value": "What is it?",
